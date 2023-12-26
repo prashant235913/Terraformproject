@@ -20,8 +20,8 @@ The project is organized into the following files:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/terraform-aws-s3-website.git
-   cd terraform-aws-s3-website
+   git clone https://github.com/prashant235913/Terraformproject.git
+   cd Terraformproject
    ```
 
 2. **Update Variables (Optional):**
@@ -58,9 +58,9 @@ The project is organized into the following files:
 
 ## Project Diagram
 
-You can find a visual representation of the project in the [project_diagram.png](./project_diagram.png) file. Open the file using an image viewer.
+You can find a visual representation of the project in the [project_diagram.png](./diagram) file. Open the file using an image viewer.
 
-![Project Diagram](./project_diagram.png)
+![Project Diagram](./diagram.png)
 
 ## Conclusion
 
